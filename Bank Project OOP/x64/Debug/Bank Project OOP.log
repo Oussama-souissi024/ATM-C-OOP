@@ -1,0 +1,51 @@
+﻿  Bank Project OOP.cpp
+C:\Users\admin\source\repos\ATM Project C++ OOP\Bank Project OOP\clsString.h(258,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+C:\Users\admin\source\repos\ATM Project C++ OOP\Bank Project OOP\clsString.h(292,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+C:\Users\admin\source\repos\ATM Project C++ OOP\Bank Project OOP\clsString.h(322,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+C:\Users\admin\source\repos\ATM Project C++ OOP\Bank Project OOP\clsString.h(323,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+C:\Users\admin\source\repos\ATM Project C++ OOP\Bank Project OOP\clsString.h(341,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+C:\Users\admin\source\repos\ATM Project C++ OOP\Bank Project OOP\clsString.h(345,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+C:\Users\admin\source\repos\ATM Project C++ OOP\Bank Project OOP\clsString.h(382,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+C:\Users\admin\source\repos\ATM Project C++ OOP\Bank Project OOP\clsString.h(396,28): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+C:\Users\admin\source\repos\ATM Project C++ OOP\Bank Project OOP\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+C:\Users\admin\source\repos\ATM Project C++ OOP\Bank Project OOP\clsBankClient.h(25,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+C:\Users\admin\source\repos\ATM Project C++ OOP\Bank Project OOP\clsBankClient.h(388,10): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+C:\Users\admin\source\repos\ATM Project C++ OOP\Bank Project OOP\clsBankClient.h(423,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+C:\Users\admin\source\repos\ATM Project C++ OOP\Bank Project OOP\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+C:\Users\admin\source\repos\ATM Project C++ OOP\Bank Project OOP\clsTransferScreen.h(51,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+C:\Users\admin\source\repos\ATM Project C++ OOP\Bank Project OOP\clsCurrency.h(29,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+  clsTransferLogScreen.cpp
+  Generating Code...
+C:\Users\admin\source\repos\ATM Project C++ OOP\Bank Project OOP\clsBankClient.h(341,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\admin\source\repos\ATM Project C++ OOP\Bank Project OOP\clsUser.h(312,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Bank Project OOP.vcxproj -> C:\Users\admin\source\repos\ATM Project C++ OOP\x64\Debug\Bank Project OOP.exe
